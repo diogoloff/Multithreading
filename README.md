@@ -5,7 +5,7 @@ O mesmo foi desenvolvido em Delphi, porem serve como ilustação ao conceito, qu
 
 Apesar de existirem linguagens que tendem a abstrair este conceito, esta abstração tem um custo que é em troca de desempenho.
 
-Clique [aqui](https://youtu.be/cBvRZf0Ylhc) para acessar video no youtube explicando e demonstrando exemplos.
+Clique [aqui](https://youtu.be/ergv46ROaDs) para acessar video no youtube explicando e demonstrando exemplos.
 
 <br>
 
